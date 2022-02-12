@@ -26,6 +26,7 @@ A aplicação deve incluir as telas de:
 ### opcionais
 
 - material-ui
+- react-hook-form
 
 ## o que vai ser avaliado
 
