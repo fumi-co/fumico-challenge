@@ -29,6 +29,7 @@ A aplicação deve ser seguida conforme a descrição deste documento, porém, s
 
 - material-ui
 - react-hook-form
+- configuração de PWA (yarn create react-app my-app --template cra-template-pwa-typescript)
 
 ## o que vai ser avaliado
 
