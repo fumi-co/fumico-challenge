@@ -1,13 +1,13 @@
 ## proposta
 
-Desenvolver uma api em nestjs para ser utilizada pela aplicação de frontend, deve incluir endpoints para servir para as telas:
+Desenvolver uma api em nestjs para ser utilizada pela aplicação de frontend, deve incluir endpoints que sejam utilizados pelas telas:
 
 https://www.figma.com/file/GUDJV2TkYlC7QdURtx5DvG/fumico-challenge?node-id=0%3A1
 
-1. Login (signup/login com jwt)
-2. Listagem de lembretes - permite alteração de status: ativo/concluido
-3. Criação de lembrete - campos de titulo, descrição e status
-4. Edição de lembrete
+1. Login (signup + login com jwt)
+2. Listagem de lembretes
+3. Criação de lembrete (id, titulo, descrição, status, user, created_at, updated_at)
+4. Edição de lembrete (edição de titulo, descrição e status)
 
 Basicamente Auth em JWT + CRUD de uma todo-list.
 
