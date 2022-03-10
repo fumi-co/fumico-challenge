@@ -1,5 +1,5 @@
 # desafio fumico
 
-## desafio [frontend](../blob/master/FRONTEND.md)
+## desafio [frontend](./FRONTEND.md)
 
-## desafio [backend](../blob/master/BACKEND.md)
+## desafio [backend](./BACKEND.md)
