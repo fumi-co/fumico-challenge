@@ -23,7 +23,7 @@ O prazo para entrega da proposta é de 7 dias a partir do momento em que compart
 
 ## o que vai ser avaliado
 
-- Se a API está pronta pra ser usada em um ambiente real [21/07]
+- Se a API está pronta pra ser usada em um ambiente real *\*(21/07)*
 - Funcionamento correto da aplicação
 - Arquitetura do projeto
 - Domínio das tecnologias
